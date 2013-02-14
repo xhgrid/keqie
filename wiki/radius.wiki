@@ -1,0 +1,7 @@
+.radius{	
+	-webkit-border-radius: 4px;   /*只支持webkit内核的浏览器*/
+	border-radius: 4px;  /*只支持IE内核的浏览器（IE>=7)*/
+	-moz-border-radius : 4px; /*只支持Mozilla内核的浏览器*/
+	border:#ddd solid 1px;
+	padding:4px;
+}

@@ -1,0 +1,2 @@
+.gradient{ filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColo rStr=#ffffff, EndColorStr=#dedede);background: -moz-linear-gradient(top, #ffffff, #dedede); }
+代码摘自 http://download.keqie.com/codex.html

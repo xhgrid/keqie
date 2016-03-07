@@ -1,0 +1,3 @@
+.transparent{
+> filter:alpha(opacity=50); -moz-opacity:0.5;/Firefox 3.5即将原生支持opacity
+属性，所以本条属性只在Firefox3以下版本有效 
